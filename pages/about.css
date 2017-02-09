@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Amita');
+@import url('https://fonts.googleapis.com/css?family=Lato:400i');
+
+h1{
+font-family: amita;
+text-align: center;
+color: #890000;
+    margin-top: 80px;
+}
